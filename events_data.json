@@ -8,16 +8,18 @@
         "event_organiser": "UM6P EVENTS",
         "event_date": "Mon 05/01/2023 10:30",
         "event_duration": "14:00 - 18:00",
-        "event_location": "CFM; Rabat"
+        "event_location": "CFM; Rabat",
+        "event_link": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
       },
       {
         "event_id": 2,
         "event_name": "A written work that is published or about to be published",
         "event_description": "Un projet confié à un groupement autour d'une université pour garantir la pertinence et l'impact de la solution",
         "event_organiser": "STARTGATE",
-        "event_date": "Fri 15/01/2023 16:30",
+        "event_date": "Fri 15/05/2023 16:30",
         "event_duration": "10:00 - 12:00",
-        "event_location": "CFF; Benguerir"
+        "event_location": "CFF; Benguerir",
+        "event_link": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
       }
     ]
   }
